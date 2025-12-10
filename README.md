@@ -1,6 +1,6 @@
-# Unified Financial Intelligence Model (UFIM)
+# Financial Data Analysis on the Transaction data
 
-This project is a **single Jupyter Notebook** that performs end-to-end financial analysis on bank transaction data available [here](https://www.kaggle.com/datasets/devildyno/indian-bank-statement-one-year).  
+This project performs end-to-end financial analysis on bank transaction data available [here](https://www.kaggle.com/datasets/devildyno/indian-bank-statement-one-year).  
 
 ---
 
@@ -123,3 +123,4 @@ The notebook follows this structure:
 
 
 ---
+
